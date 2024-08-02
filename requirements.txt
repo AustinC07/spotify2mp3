@@ -28,4 +28,4 @@ python-Levenshtein
 tekore
 flask
 Werkzeug
-git+https://github.com/abanand132/pytube.git@master#egg=pytube
+git+https://github.com/AustinC07/pytube
