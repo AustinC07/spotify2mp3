@@ -1,5 +1,5 @@
 # spotify2mp3
-fixed version of https://github.com/AustinC07/spotify2mp3
+fixed version of https://github.com/couldbejake/spotify2mp3
 
 <div align="center"><b>This project is a continuation of the original repository made by couldbejake.</b></div>
 
