@@ -1,7 +1,7 @@
 # spotify2mp3
-fixed version of https://github.com/couldbejake/spotify2mp3
+fixed version of https://github.com/AustinC07/spotify2mp3
 
-<div align="center"><b>This project is currently inactive, and will not run without big changes to the code.</b></div>
+<div align="center"><b>This project is a continuation of the original repository made.</b></div>
 
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
@@ -11,27 +11,14 @@ fixed version of https://github.com/couldbejake/spotify2mp3
   
   <!-- Badges -->
   <p>
-    <a href="https://github.com/couldbejake/spotify2mp3/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/couldbejake/spotify2mp3" alt="contributors" />
+    <a href="https://github.com/AustinC07/spotify2mp3/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/AustinC07/spotify2mp3" alt="contributors" />
     </a>
-
-    <a href="https://github.com/couldbejake/spotify2mp3/network/members">
-      <img src="https://img.shields.io/github/forks/couldbejake/spotify2mp3" alt="forks" />
-    </a>
-    
-    <a href="https://github.com/couldbejake/spotify2mp3/stargazers">
-      <img src="https://img.shields.io/github/stars/couldbejake/spotify2mp3" alt="stars" />
-    </a>
-    
-    <a href="https://github.com/couldbejake/spotify2mp3/issues/">
-      <img src="https://img.shields.io/github/issues/couldbejake/spotify2mp3" alt="open issues" />
-    </a>
-  </p>
    
   <h4>
-      <a href="https://github.com/couldbejake/spotify2mp3/issues">Report Bug</a>
+      <a href="https://github.com/AustinC07/spotify2mp3/issues">Report Bug</a>
     <span> · </span>
-      <a href="https://github.com/couldbejake/spotify2mp3/issues/new">Request Feature</a>
+      <a href="https://github.com/AustinC07/spotify2mp3/issues/new">Request Feature</a>
     <span> · </span>
       <a href="https://www.buymeacoffee.com/couldbejake">Support this project</a>
   </h4>
@@ -54,7 +41,7 @@ fixed version of https://github.com/couldbejake/spotify2mp3
 
 Clone the project
 
-`$ git clone https://github.com/couldbejake/spotify2mp3.git`
+`$ git clone https://github.com/AustinC07/spotify2mp3.git`
 
 <!-- Installation -->
 ### :gear: Installation
@@ -93,11 +80,11 @@ On mobile:
 
 ## Troubleshooting
 
-If you have any issues at all, please post a full log <a href="https://github.com/couldbejake/spotify2mp3/issues">here</a>
+If you have any issues at all, please post a full log <a href="https://github.com/AustinC07/spotify2mp3/issues">here</a>
 
 Support this project
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/couldbejake)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AustinC07)
 
 ## Coming soon
 
