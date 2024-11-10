@@ -1,7 +1,7 @@
 # spotify2mp3
 fixed version of https://github.com/AustinC07/spotify2mp3
 
-<div align="center"><b>This project is a continuation of the original repository made.</b></div>
+<div align="center"><b>This project is a continuation of the original repository made by couldbejake.</b></div>
 
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="250" height="auto" />  
