@@ -19,7 +19,7 @@ class YouTube:
         if not self.potoken:
             raise ValueError(
                 "YOUTUBE_POTOKEN not found in environment variables. "
-                "Please ensure you create a YOUTUBE_POTOKEN.env file in the spotify2mp3 root directory in the following format: YOUTUBE_POTOKEN=POTOKENHERE (replace potokenhere with your potoken)"
+                "Please ensure you create a YOUTUBE_POTOKEN.env file in the spotify2mp3 root directory in the following format: YOUTUBE_POTOKEN=POTOKENHERE (replace potokenhere with your potoken) otherwise, add a new one as this one has expired."
             )
 
     def search(self, search_query, max_length, min_view_count, search_count=1):
